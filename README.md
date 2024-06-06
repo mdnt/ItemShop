@@ -1,12 +1,12 @@
-CID_593_Athena_Commando_F_SoccerZombieA, 1500
-BID_101_BlingFemale, 500
-CID_595_Athena_Commando_F_SoccerZombieC, 1500
+CID_024_Athena_Commando_F, 1200
+Umbrella_Season_09, 200
+CID_153_Athena_Commando_F_CarbideBlack, 2000
 na
 na
 na
-Pickaxe_ID_216_DemonHunter1H, 800
-Glider_ID_139_EarthDay, 500
-Wrap_158_DevilRock, 500
-Umbrella_AssassinSuit, 200
-EID_CrabDance, 800
-EID_RaiseTheRoof, 200
+Pickaxe_ID_116_Celestial, 800
+BID_119_VampireFemale, 600
+MusicPack_023_OG, 500
+Pickaxe_ID_035_Prismatic, 800
+EID_ElectroSwing, 500
+BID_278_VigilanteBoard, 500
